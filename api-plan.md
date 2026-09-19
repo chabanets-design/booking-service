@@ -1,5 +1,1 @@
-# API Plan
-GET /bookings
-POST /bookings
-DELETE /bookings/{id}
-PUT /bookings/{id}
+GET /bookings — list all bookings (v1)
