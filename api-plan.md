@@ -1,1 +1,1 @@
-GET /bookings — list all bookings (v1)
+GET /bookings — list all bookings (final)
