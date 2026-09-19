@@ -5,3 +5,5 @@
 - README.md
 - project-notes.md
 - api-plan.md
+## Установка
+1. Склонировать репозиторий
